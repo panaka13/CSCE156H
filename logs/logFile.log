@@ -1,0 +1,15 @@
+2017-08-08 21:31:41.477 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":4,"y":4,"cost":2,"score":118,"game_status":"playing","message":null}
+2017-08-08 21:31:42.366 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":5,"y":5,"cost":2,"score":116,"game_status":"playing","message":null}
+2017-08-08 21:31:43.962 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"HIT","x":3,"y":3,"cost":2,"score":114,"game_status":"playing","message":null}
+2017-08-08 21:31:45.395 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":3,"y":4,"cost":2,"score":112,"game_status":"playing","message":null}
+2017-08-08 21:31:46.998 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":4,"y":3,"cost":2,"score":110,"game_status":"playing","message":null}
+2017-08-08 21:31:48.973 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":2,"y":3,"cost":2,"score":108,"game_status":"playing","message":null}
+2017-08-08 21:31:57.345 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"HIT","x":3,"y":2,"cost":2,"score":106,"game_status":"playing","message":null}
+2017-08-08 21:31:58.865 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"HIT","x":3,"y":1,"cost":2,"score":104,"game_status":"playing","message":"You sunk my Cruiser!"}
+2017-08-08 21:31:59.533 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":6,"y":6,"cost":2,"score":102,"game_status":"playing","message":null}
+2017-08-08 21:32:00.214 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"HIT","x":4,"y":7,"cost":2,"score":100,"game_status":"playing","message":null}
+2017-08-08 21:32:00.923 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"HIT","x":3,"y":7,"cost":2,"score":98,"game_status":"playing","message":null}
+2017-08-08 21:32:02.156 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":5,"y":7,"cost":2,"score":96,"game_status":"playing","message":null}
+2017-08-08 21:32:02.756 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"HIT","x":2,"y":7,"cost":2,"score":94,"game_status":"playing","message":"You sunk my Submarine!"}
+2017-08-08 21:32:03.379 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":7,"y":4,"cost":2,"score":92,"game_status":"playing","message":null}
+2017-08-08 21:32:04.044 [main] INFO  logFile.LogFile - {"game_id":"f1b112ce","cse_login":"kphan","result":"MISS","x":1,"y":5,"cost":2,"score":90,"game_status":"playing","message":null}
